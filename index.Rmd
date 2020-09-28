@@ -1,0 +1,15 @@
+---
+title: "Our Website"
+author: "Hayley"
+date: "9/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Leah and Hayley's Website
+
+![white rose](https://www.parasperfumers.com/upload/product_ecom/White-Rose-Otto-Essential-Oil-Rosa-alba-Essential-Oil-ProductPic.jpg)
+
