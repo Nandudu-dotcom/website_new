@@ -13,3 +13,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![white rose](https://www.parasperfumers.com/upload/product_ecom/White-Rose-Otto-Essential-Oil-Rosa-alba-Essential-Oil-ProductPic.jpg)
 
+
+![adrica]https://www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fafrican-cities-can-raise-more-money-kenya-and-south-africa-offer-useful-lessons-102819&psig=AOvVaw0huwA_FYZqhxY9-TLSXk3W&ust=1601409169361000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOC715XQjOwCFQAAAAAdAAAAABAD
